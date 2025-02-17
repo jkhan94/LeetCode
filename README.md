@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/jkhan94/LeetCode/tree/master/0626-exchange-seats) |
 | [1153-product-sales-analysis-i](https://github.com/jkhan94/LeetCode/tree/master/1153-product-sales-analysis-i) |
 | [1155-product-sales-analysis-iii](https://github.com/jkhan94/LeetCode/tree/master/1155-product-sales-analysis-iii) |
+| [1161-project-employees-i](https://github.com/jkhan94/LeetCode/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/jkhan94/LeetCode/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/jkhan94/LeetCode/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/jkhan94/LeetCode/tree/master/1415-students-and-examinations) |
